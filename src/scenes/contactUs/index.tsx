@@ -62,7 +62,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             className="mt-10 basis-3/5 md:mt-0"
           >
             <form
-              action="https://formsubmit.co/06d6d40ec2abd9607a51a8fb4eb09584"
+              action="https://formsubmit.co/momen20000001@gmail.com"
               target="_blank"
               method="POST"
               onSubmit={onSubmit}
